@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css'
-import Header from '../../header/Header'
+import Header from '../../header/header'
 import Posts from '../../posts/Posts'
 import SideBar from '../../sidebar/SideBar'
 
