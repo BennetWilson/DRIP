@@ -7,7 +7,7 @@ export default function Sidebar() {
       <div className="sideBarItem">
         <span className="sideBarTitle">ABOUT ME</span>
         <img className='sideBarImage' src="https://via.placeholder.com/250" alt="" />
-        <p>
+        <p className="sideBarP">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni neque
           corporis natus ipsa maiores voluptatum ab ut expedita, hic, totam,
           voluptate aut? Minima assumenda velit hic nobis nulla cum
