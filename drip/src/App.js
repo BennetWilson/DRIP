@@ -1,4 +1,4 @@
-import TopBar from './topbar/topbar';
+import TopBar from './topbar/Topbar';
 import './App.css';
 
 import Home from './pages/home/Home';
